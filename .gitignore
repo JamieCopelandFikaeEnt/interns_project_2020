@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+InternsProject2020/Binaries/
+InternsProject2020/Saved/
+InternsProject2020/Intermediate/
+
